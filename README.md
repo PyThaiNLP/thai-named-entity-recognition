@@ -3,11 +3,7 @@ Thai Named Entity Recognition
 
 Use:
 
-Install PyThaiNLP  :  pip install pythainlp
-
-download data from https://github.com/PyThaiNLP/thai-named-entity-recognition-data
-
-than use 
+use 
 
 ```python
 python train-ner.py
