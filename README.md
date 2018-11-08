@@ -1,19 +1,7 @@
 # Thai Named Entity Recognition
 Thai Named Entity Recognition 
 
-Use:
-
-use 
-
-```python
-python train-ner.py
-```
-
-```python
-0.738191632928475
-Text : ต้นตาลเรียนอยู่ที่มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย
-[('ต้นตาล', 'B-NP'), ('เรียน', 'O'), ('อยู่', 'O'), ('ที่', 'O'), ('มหาวิทยาลัยขอนแก่น', 'B-NP'), (' ', 'I-NP'), ('วิทยาเขต', 'I-NP'), ('หนองคาย', 'I-NP')]
-```
+**Move to https://github.com/wannaphongcom/thai-ner**
 
 ## LICENSE
 
